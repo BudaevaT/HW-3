@@ -17,6 +17,3 @@ Console.Write("Введите координаты z2: ");
 int z2 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine(Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2) + Math.Pow(z2 - z1, 2)));
-
-
-
